@@ -1,0 +1,21 @@
+apiVersion: v1
+entries:
+  kafka:
+  - apiVersion: v2
+    appVersion: v3.4.0
+    created: "2023-06-04T16:16:48.908023624Z"
+    description: Helm chart for Apache Kafka.
+    digest: a5e2592d98060288db7ef04387d97bbfc65e9245bf826e83c5dc2fe415df6ad3
+    keywords:
+    - kafka
+    - streaming
+    - kraft
+    maintainers:
+    - name: sir5kong
+      url: https://github.com/sir5kong/kafka-docker
+    name: kafka
+    type: application
+    urls:
+    - https://github.com/sir5kong/kafka-helm-chart/releases/download/kafka-chart-13.0.1/kafka-13.0.1.tgz
+    version: 13.0.1
+generated: "2023-06-04T16:16:48.908029624Z"
